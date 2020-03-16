@@ -1,0 +1,2 @@
+rootProject.name='ACT_Android_Practice'
+include ':app'
